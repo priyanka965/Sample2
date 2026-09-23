@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-09-23T13:24:06 IST" name="Surefire suite" finished-at="2026-09-23T13:24:06 IST" duration-ms="49">
+  <suite started-at="2026-09-23T16:24:36 IST" name="Surefire suite" finished-at="2026-09-23T16:24:36 IST" duration-ms="59">
     <groups>
     </groups>
-    <test started-at="2026-09-23T13:24:06 IST" name="Surefire test" finished-at="2026-09-23T13:24:06 IST" duration-ms="49">
+    <test started-at="2026-09-23T16:24:36 IST" name="Surefire test" finished-at="2026-09-23T16:24:36 IST" duration-ms="59">
       <class name="pac1.CreateContactTest">
-        <test-method signature="createContactTest()[pri:0, instance:pac1.CreateContactTest@b62fe6d]" started-at="2026-09-23T13:24:06 IST" name="createContactTest" finished-at="2026-09-23T13:24:06 IST" duration-ms="7" status="PASS">
+        <test-method signature="createContactTest()[pri:0, instance:pac1.CreateContactTest@13acb0d1]" started-at="2026-09-23T16:24:36 IST" name="createContactTest" finished-at="2026-09-23T16:24:36 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createContactTest -->
-        <test-method signature="modifyContactTest()[pri:0, instance:pac1.CreateContactTest@b62fe6d]" started-at="2026-09-23T13:24:06 IST" name="modifyContactTest" finished-at="2026-09-23T13:24:06 IST" duration-ms="1" status="PASS">
+        <test-method signature="deleteContactTest()[pri:0, instance:pac1.CreateContactTest@13acb0d1]" started-at="2026-09-23T16:24:36 IST" name="deleteContactTest" finished-at="2026-09-23T16:24:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method signature="modifyContactTest()[pri:0, instance:pac1.CreateContactTest@13acb0d1]" started-at="2026-09-23T16:24:36 IST" name="modifyContactTest" finished-at="2026-09-23T16:24:36 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyContactTest -->
       </class> <!-- pac1.CreateContactTest -->
       <class name="pac2.OrgTest$CreateOrgTest">
-        <test-method signature="createContactTest()[pri:0, instance:pac2.OrgTest$CreateOrgTest@60611244]" started-at="2026-09-23T13:24:06 IST" name="createContactTest" finished-at="2026-09-23T13:24:06 IST" duration-ms="1" status="PASS">
+        <test-method signature="createContactTest()[pri:0, instance:pac2.OrgTest$CreateOrgTest@3745e5c6]" started-at="2026-09-23T16:24:36 IST" name="createContactTest" finished-at="2026-09-23T16:24:36 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createContactTest -->
-        <test-method signature="modifyOrgTest()[pri:0, instance:pac2.OrgTest$CreateOrgTest@60611244]" started-at="2026-09-23T13:24:06 IST" name="modifyOrgTest" finished-at="2026-09-23T13:24:06 IST" duration-ms="1" status="PASS">
+        <test-method signature="modifyOrgTest()[pri:0, instance:pac2.OrgTest$CreateOrgTest@3745e5c6]" started-at="2026-09-23T16:24:36 IST" name="modifyOrgTest" finished-at="2026-09-23T16:24:36 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- modifyOrgTest -->
